@@ -18,3 +18,23 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+img {
+  margin-right: 20px;
+
+}
+ul{
+  padding: 0;
+}
+h1, h2{
+  display: contents;
+  margin-left: 20px;
+}
+/* .country-element{
+ display: flex;
+} */
